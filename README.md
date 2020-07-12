@@ -1,5 +1,3 @@
-# Redfin_Web_Scraping_and_Analysis
-
 # Problem Description
 This project was aimed at collecting real estate data from The Redfin website by web scraping and doing visualization and analysis on this data.
 
